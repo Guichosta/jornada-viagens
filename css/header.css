@@ -38,6 +38,7 @@ nav {
 
 .list-link li {
   margin: 16px 0;
+  padding-left: 48px;
 }
 
 .list-link li a {
